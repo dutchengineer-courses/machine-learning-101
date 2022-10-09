@@ -1,2 +1,3 @@
 recommendations/movie-recommendations/ml-latest-small
 supervised-learning/regression/mlruns
+supervised-learning/classification/random_forest
